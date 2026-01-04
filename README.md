@@ -119,12 +119,3 @@ DELETE	/users/:id	Exclui usuário
 Heverton Guedes
 Desenvolvedor Full Stack
 
-
----
-
-## ✅ Agora faça o commit final do README
-
-```bash
-git add README.md
-git commit -m "docs: add instructions to clone and run the project"
-git push
